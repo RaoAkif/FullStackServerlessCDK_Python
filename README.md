@@ -1,1 +1,1 @@
-# FullStackServerlessCDK-Python-
+# FullStackServerlessCDK (Python)
