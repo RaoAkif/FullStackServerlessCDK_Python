@@ -46,8 +46,8 @@ class AwsCdkPythonStack(core.Stack):
 
         bucket = s3.Bucket(self, 
     "MyBootcampBucket", 
-    versioned=True,)```
-
+    versioned=True,)
+```
 
 #### Deploying the stack
 ```
