@@ -1,4 +1,4 @@
-## Step 1: Hello CDK | FullStackServerlessCDK (Python)
+## Step 0: Hello CDK | FullStackServerlessCDK (Python)
 
 #### Creating a Directory, and entring into it
 ```
