@@ -1,4 +1,4 @@
-### FullStackServerlessCDK (Python)
+## FullStackServerlessCDK (Python)
 
 Signup for [AWS Fee Tier](https://aws.amazon.com/free/)
 
@@ -18,15 +18,14 @@ Install [Docker to test apps locally](https://docs.docker.com/get-docker/)
 
 Install [Toolkit for VS Code](https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/setup-toolkit.html)
 
-#### Install TypeScript Globally
+### Install TypeScript Globally
 ``` npm install -g typescript ```
 
-#### Install AWS-CDK Globally
+### Install AWS-CDK Globally
 ``` npm install -g aws-cdk ```
 
-#### Configure your Command Line Interface
+### Configure your Command Line Interface
 ``` aws configure ```
 
 When Promted, provide: AWS access key ID, Secret access key, and Default region (e.g. us-east-2)
-
 
