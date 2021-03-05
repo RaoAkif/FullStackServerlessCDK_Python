@@ -49,7 +49,7 @@ export class Step01HelloLambdaStack extends cdk.Stack {
 
 ```
 
-#### Create a Folder for Lambda Functions `lambda` and put a handler function for HelloLambda in `hello.ts`
+#### Create a Folder for Lambda Functions `lambda` and put a handler function for HelloLambda in `hello.py`
 
 ```
 def handler(event, context):
